@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512218689 source:d:\c++\improved bubble sorting\main.c
+	<stdio.h>
+	<stdlib.h>
+
